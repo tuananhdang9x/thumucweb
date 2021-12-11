@@ -1,0 +1,77 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 750;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.menu {
+  margin: 0 20px 0 20px;
+}
+
+.menu.active {
+  background-color: black;
+  color: white;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+
+header {
+  padding: 0px 0 10px 0;
+}
+.main-heading {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin: 30px 0 10px 0;
+}
+
+.heading {
+  font-size: 25px;
+  margin: 8px 0 0 0;
+  text-transform: uppercase;
+  text-align: center;
+}
+.text {
+  font-size: 20px;
+  text-align: center;
+  margin: 0 0 20px 0;
+}
+.picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+  width: 700px;
+}
+.footer {
+  border: 2px solid black;
+  border-radius: 10px;
+  display: block;
+  margin: 100px 30px 100px 30px;
+  font-size: 30px;
+  background-color: rgb(243, 243, 30);
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+}
+.text-cantrai {
+  font-size: 20px;
+  text-align: left;
+  margin-top: 0px;
+}
+.main-heading-cantrai {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: left;
+  text-transform: uppercase;
+}
